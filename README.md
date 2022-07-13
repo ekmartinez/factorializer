@@ -1,6 +1,6 @@
 # Factorializer
 
-Return the factorial of the provided integer.
+Returns the factorial of the provided integer.
 
 If the integer is represented with the letter n, a factorial is the product of all positive integers less than or equal to n.
 
@@ -20,4 +20,4 @@ factorialize(20) should return 2432902008176640000.
 
 factorialize(0) should return 1.
 
-Source: Basic Algorithm Scripting
+Source: Basic Algorithm Scripting (freecodecamp.com)
